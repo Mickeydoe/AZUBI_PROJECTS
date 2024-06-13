@@ -1,8 +1,4 @@
-Got it! Here’s a detailed project overview for your Dockerized Nginx Login Page:
-
----
-
-# Project Overview: Dockerized Nginx Login Page
+# AZUBI Form Submission Web Application v1
 
 ## Introduction
 
@@ -62,7 +58,3 @@ Users can access the login page by navigating to the specified URL (e.g., `http:
 ## Conclusion
 
 This project provides a foundational example of how to set up and deploy a simple web application using modern, efficient tools. Whether you're a beginner looking to understand Docker and Nginx or a developer needing a quick deployment solution, this Dockerized Nginx Login Page serves as a valuable resource and starting point.
-
----
-
-This overview covers the essence of your project, explaining its purpose, features, and benefits in a detailed and accessible manner.
